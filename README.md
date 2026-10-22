@@ -63,7 +63,7 @@ Future analysis could incorporate additional reporting periods and internal oper
 **[View Stakeholder Presentation (PDF)](ICH-CAHPS_Patient_Experience_Analysis.pdf)**  
 Six-slide presentation covering the business question, methodology, key findings, implications, and recommendations.
 
-**[Download Analysis Workbook (Excel)](ICH_CAHPS_FACILITY_Analysis.xlsx)**  
+**[View Analysis Workbook (Google Sheets)](https://docs.google.com/spreadsheets/d/1c03or4C4_kJHornHoQA1R_xP4SXINZN0VlG2FSB6pWo/edit?usp=sharing)**  
 Includes original source data, working data, PivotTable analyses, stakeholder summary, analysis log, and references.
 
 ## Data Sources & References
